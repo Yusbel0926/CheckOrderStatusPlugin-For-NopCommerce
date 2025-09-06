@@ -46,4 +46,12 @@ Works with both registered and guest orders
 📄 License
 
 This project is licensed under the MIT License
+
+Configuration:
+<img width="1660" height="853" alt="image" src="https://github.com/user-attachments/assets/0594d9fa-a1a6-4cc0-bd5c-1ca7df34c105" />
+
+Check Order Status Page
+<img width="794" height="340" alt="image" src="https://github.com/user-attachments/assets/42cafe8b-945c-4377-a0ab-797b49e1e20b" />
+
+
 .
